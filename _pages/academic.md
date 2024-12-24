@@ -25,3 +25,4 @@ Ravi Koka, Ananya Kaalava, and I wrote an article about cosmology for our PHY 37
 ## Fall 2025. Statistical Physics of Large Scale Structure Formation.
 
 Ananya Kaalava and I presented about the statistics of dark matter halo formation. I am writing notes on the statistical physics of large scale structure formation.
+This project is for Cosmology/Astroparticle Physics (PHY 375C).
